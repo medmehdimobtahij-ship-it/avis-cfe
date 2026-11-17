@@ -1,0 +1,15 @@
+{
+  "_lisez_moi": "Copiez ce fichier en config.json (ignoré par git) et adaptez-le. Chaque clé peut aussi venir d'une variable d'environnement AVIS_<CLE en majuscules> (ex. AVIS_MICROSOFT_CLIENT_ID). Tout est facultatif sauf « comptes » : sans Microsoft, SharePoint ni Pennylane, l'outil marche (mails en .eml ou dans votre messagerie, PDF téléchargés, interlocuteurs importés d'un fichier). Valeurs ci-dessous : des exemples.",
+  "demo": false,
+  "cabinet_nom": "Cabinet Exemple",
+  "comptes": "camille:Camille Martin,hugo:Hugo Petit",
+  "connexion_par_nom_en_local": false,
+  "domaine": "cabinet-exemple.fr",
+  "microsoft_client_id": "",
+  "sharepoint": "",
+  "_sharepoint_exemple": "https://exemple.sharepoint.com/sites/cabinet/Documents partages",
+  "dossier_clients": "Dossiers/Comptabilite",
+  "sous_dossier_cfe": "FISCAL/07-CFE",
+  "sauvegarde_comptazap": "SAUVEGARDE COMPTAZAP",
+  "cabinet_pennylane": ""
+}
